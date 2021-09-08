@@ -1,9 +1,10 @@
  ### Hi, Anirban here 👋
  
- .👨🏻‍🎓 Currently persuing my B.Tech in CSE
+- 👨🏻‍🎓 Currently persuing my B.Tech in CSE
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Creative Projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me :: [Linkedin](https://www.linkedin.com/in/anirbanball36/)
 
 <!---
