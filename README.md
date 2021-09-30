@@ -1,6 +1,6 @@
  ### Hi, Anirban here 👋
  
-- 👨🏻‍🎓 Currently persuing my B.Tech in CSE
+- 👨🏻‍🎓 Currently pursuing my B.Tech in CSE
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Creative Projects
